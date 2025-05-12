@@ -347,8 +347,8 @@ export default function YellowFeverVaccinationSite() {
                       <div className="flex items-start">
                         <Phone className="h-5 w-5 text-blue-600 mr-2 mt-0.5 flex-shrink-0" />
                         <div>
-                          <p className="text-sm text-gray-600">Toll Free: 18002330000</p>
-                          <p className="text-sm text-gray-600">Mobile: +91 99235 55053</p>
+                          <p className="text-sm text-gray-600"><a href="tel:18002330000">Toll Free: 18002330000</a></p>
+                          <p className="text-sm text-gray-600"><a href="tel:+919823555053">Mobile: +91 9823555053</a></p>
                         </div>
                       </div>
                       <div className="flex items-start">
